@@ -13,7 +13,7 @@ For my grade thesis as a electronic Engineer on *"Universidad Simon Bolivar"*, i
 On the "Documents" folder you can find the Thesis paper and the PowerPoint presentation used which describe the whole process of development and results, but both documents are on Spanish.
 
 ## Screenshots
-![Example screenshot](https://j.gifs.com/oVq8MA.gif)
+![Example screenshot](https://gifs.com/gif/tesis-oVq8MA)
 
 ## Setup
 As i stated this files wont be enough but the microcontroller file structure is as follows:
